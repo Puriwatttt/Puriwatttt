@@ -13,7 +13,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **.**
+- 🌱 I’m currently learning **INTERCAL**
 
 - ⚡ Fun fact **play games, read manga, watching anime, streaming?.**
 
