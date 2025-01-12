@@ -33,15 +33,15 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Pooh3133">
+  <a href="https://github.com/Puriwatttt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puriwatttt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooh3133&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puriwatttt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Pooh3133&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Pooh3133" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Pooh3133" alt="Profile Forks"></a>
+<img src="https://komarev.com/ghpvc/?username=Puriwatttt&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Puriwatttt" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Puriwatttt" alt="Profile Forks"></a>
 </div>
 
 <div align="center">
@@ -60,7 +60,7 @@
  
 </div>
 
-**Pooh3133/Pooh3133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Puriwatttt/Puriwatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
