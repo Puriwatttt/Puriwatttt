@@ -28,13 +28,13 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=Pooh3133&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=Puriwatttt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/Pooh3133">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pooh3133&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puriwatttt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooh3133&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
